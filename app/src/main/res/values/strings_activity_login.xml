@@ -1,0 +1,10 @@
+<resources>
+    <string name="title_activity_login">Join</string>
+
+    <!-- Strings related to login -->
+    <string name="prompt_username">니 이름을 적어라</string>
+    <string name="action_sign_in">입장</string>
+    <string name="action_sign_in_short">Join</string>
+
+    <string name="error_field_required">좋은 말로 할 때 적자^^</string>
+</resources>
